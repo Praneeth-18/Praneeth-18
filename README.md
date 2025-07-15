@@ -50,7 +50,7 @@ An end-to-end platform designed to help job seekers navigate their career path w
     -   Built a real-time **AI mock interviewer** with full voice I/O using AWS Transcribe and Polly.
     -   Developed a **RAG-based resume customizer** that boosted ATS match scores by 27%.
 -   **Tech Stack:** `Next.js`, `FastAPI`, `Python`, `PostgreSQL`, `DynamoDB`, `AWS`, `Docker`, `LLMs`.
--   **[View on GitHub](https://github.com/your-repo-link](https://github.com/Praneeth-18/TalentTrek-AI-Powered-Career-Companion))** 
+-   **[View on GitHub](https://github.com/Praneeth-18/TalentTrek-AI-Powered-Career-Companion))** 
 
 ### 2. MLOps for CNN-based Defect Detection
 A complete MLOps solution for an industrial quality control problem, taking a model from concept to production.
@@ -60,7 +60,7 @@ A complete MLOps solution for an industrial quality control problem, taking a mo
     -   Solved a severe **class imbalance** problem using a binary classification approach and downsampling.
     -   Managed the entire ML lifecycle using **Azure ML and MLflow** for experiment tracking, model versioning, and endpoint deployment.
 -   **Tech Stack:** `Python`, `TensorFlow`, `CNNs`, `Azure ML`, `MLflow`, `Docker`, `Flask`.
--   **[View on GitHub](https://github.com/your-repo-link](https://github.com/Samarth-Sharma-G/258_Final_Project))** 
+-   **[View on GitHub](https://github.com/Samarth-Sharma-G/258_Final_Project))** 
 
 ---
 
